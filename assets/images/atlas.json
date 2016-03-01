@@ -1,0 +1,44 @@
+{
+
+"images": [
+    "slot.png"
+],
+
+"frames": [
+    [2, 2, 139, 141, 0, 0, 0],
+    [2, 145, 94, 49, 0, 0, 0],
+    [98, 145, 94, 49, 0, 0, 0],
+    [143, 2, 139, 141, 0, 0, 0],
+    [194, 145, 94, 49, 0, 0, 0],
+    [284, 2, 139, 141, 0, 0, 0],
+    [290, 145, 94, 49, 0, 0, 0],
+    [386, 145, 94, 49, 0, 0, 0],
+    [425, 2, 139, 141, 0, 0, 0],
+    [482, 145, 94, 49, 0, 0, 0],
+    [566, 2, 139, 141, 0, 0, 0],
+    [707, 2, 139, 141, 0, 0, 0],
+    [848, 2, 139, 139, 0, 0, 0]
+],
+
+"animations": {
+    "7": [0],
+    "bet1": [1],
+    "bet100": [2],
+    "bar": [3],
+    "bet200": [4],
+    "blank": [5],
+    "bet50": [6],
+    "reset": [7],
+    "cherry": [8],
+    "spin": [9],
+    "lemon": [10],
+    "orange": [11],
+    "bell": [12]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:4382fee7672d4ad52e33dfe2ee5600a0:13b4e90c59108853ae5a292eb93fee5d:e63e3d7a4acd9942b73c239d4dd50474$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
