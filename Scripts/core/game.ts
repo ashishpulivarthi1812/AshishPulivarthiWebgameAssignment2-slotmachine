@@ -4,7 +4,6 @@
 
 
 
-
 // Game Framework Variables
 var canvas = document.getElementById("canvas");
 var stage: createjs.Stage;
@@ -239,7 +238,7 @@ function spinReels() {
     // Add Spin Reels code here
     if (playerBet == 1)
         playerMoney = playerMoney - 1;
-        
+
     else if (playerBet == 50)
         playerMoney = playerMoney - 50;
 
@@ -401,7 +400,7 @@ function determineWinnings() {
 
 //bet
 function betbtn1() {
-    
+
     game.removeChild(betlabel);
     game.removeChild(creditlabel);
     playerBet = 1;
@@ -411,7 +410,7 @@ function betbtn1() {
 }
 
 function betbtn50() {
- 
+
     game.removeChild(betlabel);
     game.removeChild(creditlabel);
     playerBet = 50;
@@ -421,7 +420,7 @@ function betbtn50() {
 }
 
 function betbtn100() {
-    
+
     game.removeChild(betlabel);
     game.removeChild(creditlabel);
     playerBet = 100;
@@ -431,7 +430,7 @@ function betbtn100() {
 }
 
 function betbtn200() {
-   
+
     game.removeChild(betlabel);
     game.removeChild(creditlabel);
     playerBet = 200;
