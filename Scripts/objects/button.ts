@@ -1,4 +1,4 @@
-﻿/// <reference path="../scripts/typings/easeljs/easeljs.d.ts" />
+﻿
 
 
 module objects {
